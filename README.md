@@ -94,9 +94,6 @@ colocamos várias casas decimais para a sua comodidade, basta arredondar para a 
 
 Parabéns! Você chegou ao fim desse tutorial! Agora, você está pronto para utilizar o table-to-analysed-data-inator! Se estiver interessado em novas atualizações do programa, tiver dúvidas ou sugestões, contate o desenvolvedor desse programa:
 
-Iago Jacob
-telefone +55 (62) 99317-4902
-H8E AP102 (para os mais chegados, hehe)
 
 Bons exercícios de laboratório! :3
 
